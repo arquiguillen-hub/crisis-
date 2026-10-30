@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crisis de fe - Historias cristianas</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Georgia, serif;
+            /* Aquí colocas el nombre exacto de tu imagen de portada */
+            background-image: url('crisis.jpg');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            color: #f4f4f4;
+        }
+        .overlay {
+            background-color: rgba(0, 0, 0, 0.8); /* Capa oscura para leer con facilidad */
+            min-height: 100vh;
+            padding: 40px 20px;
+            box-sizing: border-box;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: rgba(20, 20, 20, 0.9);
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+        }
+        h1 {
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            color: #ffffff;
+        }
+        .subtitle {
+            text-align: center;
+            font-style: italic;
+            color: #cccccc;
+            margin-bottom: 30px;
+        }
+        h2 {
+            border-bottom: 2px solid #444;
+            padding-bottom: 5px;
+            margin-top: 40px;
+            color: #e0e0e0;
+        }
+        p {
+            line-height: 1.8;
+            font-size: 1.1em;
+            color: #dcdcdc;
+            text-align: justify;
+        }
+        .menu {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .menu a {
+            color: #4da6ff;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        .menu a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<div class="overlay">
+    <div class="container">
+        <h1>Crisis de fe</h1>
+        <div class="subtitle">Historias cristianas</div>
+        
+        <div class="menu">
+            <a href="#capitulo1">Capítulo 1</a> | 
+            <a href="#capitulo2">Capítulo 2</a>
+        </div>
+
+        <section id="capitulo1">
+            <h2>Capítulo 1: El inicio del camino</h2>
+            <p>Aquí puedes escribir o pegar el texto correspondiente al primer capítulo de tu libro. Este diseño está pensado para que la lectura sea sumamente cómoda, imitando la elegancia de un libro impreso pero adaptado por completo al formato digital y sin depender de plataformas de pago.</p>
+        </section>
+
+        <section id="capitulo2">
+            <h2>Capítulo 2: Nuevos horizontes</h2>
+            <p>Aquí irá el contenido de tu segundo capítulo. Puedes seguir añadiendo más secciones hacia abajo conforme vayas avanzando con tu obra.</p>
+        </section>
+    </div>
+</div>
+
+</body>
+</html>
