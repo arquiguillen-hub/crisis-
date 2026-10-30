@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Capítulo 1: Globos blancos - Crisis de fe</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Georgia, serif;
+            background-color: #141414;
+            color: #dcdcdc;
+        }
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            background: #1f1f1f;
+            padding: 50px;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+        }
+        h2 {
+            color: #ffffff;
+            border-bottom: 2px solid #444;
+            padding-bottom: 10px;
+            margin-bottom: 30px;
+        }
+        p {
+            line-height: 1.9;
+            font-size: 1.15em;
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+        .volver {
+            display: inline-block;
+            margin-bottom: 20px;
+            color: #4da6ff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .volver:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <a href="index.html" class="volver">&larr; Volver al índice</a>
+    <h2>Capítulo 1: Globos blancos</h2>
+    
+    <p>El aire acondicionado del vestíbulo no lograba enfriar la incomodidad que él sentía cada vez que cruzaba aquel umbral.</p>
+    
+    <p>Iba un paso detrás de su esposa, con una mano apoyada apenas en su espalda, cuando la voz del pastor los detuvo antes de llegar a la puerta del santuario.</p>
+    
+    <p>—¡Qué milagro!</p>
+    
+    <p>El pastor se acercó con una sonrisa amplia y le extendió la mano.</p>
+    
+    <p>—Hermano, a usted solo lo vemos en las cenas matrimoniales. Y venir a un culto de aniversario... eso sí que es una novedad.</p>
+    
+    <p>Él estrechó la mano con firmeza moderada. Había aprendido a sonreír en el momento adecuado, a responder sin comprometerse demasiado y a mantener una conversación cordial incluso cuando lo único que deseaba era terminarla.</p>
+    
+    <p>—A mi esposa le gustan mucho esas cenas —dijo—. Y como el requisito es ir acompañado, no voy a dejar que se las pierda por falta de pareja.</p>
+    
+    <p>El pastor soltó una carcajada y le dio una palmada en el hombro.</p>
+    
+    <p>—Bueno, siendo así, habrá que programar cenas matrimoniales más seguido. A ver si conseguimos que se quede también los domingos.</p>
+    
+    <p>—No prometa cosas que después me va a tocar cumplir —respondió él.</p>
+    
+    <p>Volvieron a sonreír. Se despidieron con un gesto cordial y entraron al santuario.</p>
+    
+    <p>Su esposa eligió la tercera fila del lado izquierdo, como siempre.</p>
+    
+    <p>El copastor subió al púlpito con la Biblia abierta contra el pecho.</p>
+    
+    <p>El copastor saludó a la congregación, agradeció la presencia de los hermanos y anunció el texto de la predicación.</p>
+    
+    <p>—Vamos a abrir en Filipenses...</p>
+    
+    <p>Hizo una pausa antes de mencionar el capítulo.</p>
+    
+    <p>Él conocía esa pausa.</p>
+    
+    <p>Sabía que el copastor estaba calculando el momento de la siguiente frase, que después del segundo punto vendría un chiste sobre las suegras y que alguien, seguramente desde las últimas filas, se reiría un poco más fuerte de lo necesario.</p>
+    
+    <p>Hubo un tiempo en que él también había estado detrás de aquel atril. Había preparado bosquejos, subrayado versículos y ensayado transiciones para que las ideas parecieran surgir con naturalidad. También había aprendido a reconocer el instante exacto en que una congregación empezaba a desconectarse y la manera de recuperarla con una anécdota.</p>
+    
+    <p>Su esposa abrió un ojo, lo miró de reojo y volvió a cerrarlo.</p>
+    
+    <p>Ella no necesitaba preguntarle qué estaba haciendo. Conocía aquella expresión que él ponía cuando una persona decía algo que los demás aceptaban sin pensarlo.</p>
+    
+    <p>A veces le parecía que su marido ya no escuchaba para comprender, sino para encontrar una grieta.</p>
+    
+    <p>El copastor continuó con el sermón.</p>
+    
+    <p>Su esposa cantaba con la barbilla ligeramente levantada. Él movía los labios, pero no emitía sonido alguno.</p>
+    
+    <p>No recordaba en qué momento había dejado de cantar. Solo recordaba que, al principio, todavía intentaba hacerlo.</p>
+    
+    <p>El diácono encargado de recoger la ofrenda llegó a su fila. Era un hombre grande, de camisa planchada, que sostenía una bolsa de terciopelo.</p>
+    
+    <p>Él tomó el billete doblado que su esposa le había dejado preparado y lo depositó en la bolsa.</p>
+    
+    <p>El copastor levantó la voz.</p>
+    
+    <p>—Y esto, hermanos, es lo que significa una vida abundante.</p>
+    
+    <p>Desde el fondo alguien dijo «amén».</p>
+    
+    <p>Después se oyó otro. Y otro más.</p>
+    
+    <p>Su esposa buscó su mano sin abrir los ojos.</p>
+    
+    <p>Él se la dio.</p>
+    
+    <p>No sabía si ella había notado su angustia o si simplemente quería tomarle la mano. Tampoco se atrevió a preguntarlo. Había preguntas que, una vez formuladas, podían convertir un gesto sencillo en una conversación para la que ninguno de los dos estaba preparado.</p>
+    
+    <p>La oración final llegó unos minutos después.</p>
+    
+    <p>Cuando la congregación empezó a dispersarse, él permaneció sentado, esperando que los pasillos se despejaran. No tenía prisa por conversar con nadie. Prefería salir cuando ya no quedaran grupos bloqueando la puerta ni hermanos dispuestos a preguntarle por qué llevaba tanto tiempo sin asistir.</p>
+    
+    <p>Entonces sintió una mano firme sobre el hombro.</p>
+    
+    <p>—Hermano, qué bendición tenerlo hoy.</p>
+    
+    <p>Era el copastor.</p>
+    
+    <p>Tenía la frente brillante por el esfuerzo del sermón y una expresión de entusiasmo que no parecía fingida.</p>
+    
+    <p>—Gracias, pastor —respondió él.</p>
+    
+    <p>—Y le digo la verdad: más que verlo sentado en la banca, me alegra poder conversar con usted. Cada vez que hablamos me deja pensando. Los temas que me sugiere me han servido mucho para preparar lo que comparto con la iglesia.</p>
+    
+    <p>Él esbozó una sonrisa.</p>
+    
+    <p>—Hago lo que puedo.</p>
+    
+    <p>—No, no. Usted tiene una manera de plantear las cosas que obliga a mirar los textos desde otro ángulo. Eso hace falta. A veces uno predica tanto sobre lo mismo que corre el riesgo de dejar de preguntarse si todavía lo entiende.</p>
+    
+    <p>La frase lo tomó desprevenido.</p>
+    
+    <p>Miró al copastor con más atención.</p>
+    
+    <p>Por un instante estuvo a punto de preguntarle si hablaba por experiencia propia. Si alguna vez había subido al púlpito con una duda que no se atrevía a compartir con nadie. Si todas aquellas palabras que pronunciaba cada domingo seguían significando para él lo mismo que significaban cuando comenzó a predicar.</p>
+    
+    <p>No preguntó nada.</p>
+    
+    <p>—Me alegra que le sirvan —dijo.</p>
+    
+    <p>—¿Tiene unos minutos hoy? Me gustaría saber qué tema trae en la cabeza últimamente.</p>
+    
+    <p>Él buscó a su esposa con la mirada.</p>
+    
+    <p>Estaba a un par de metros, ajustándose el bolso. Al notar que los dos hombres conversaban, levantó discretamente la cabeza y le hizo una seña: <em>nos vamos ya</em>.</p>
+    
+    <p>Conocía aquella rutina mejor que él. Cuando su marido se enganchaba a hablar de teología con el copastor, el tiempo dejaba de existir. Las luces del templo podían apagarse, los hermanos podían marcharse y las sillas podían quedar apiladas sobre las bancas. Él seguiría hablando.</p>
+    
+    <p>Ella terminaría sola, esperando.</p>
+    
+    <p>—Hoy se me complica un poco, pastor —dijo él—. Mi esposa no se siente muy bien y queremos regresar a casa.</p>
+    
+    <p>Su esposa, a un metro de distancia, no dijo nada.</p>
+    
+    <p>El copastor asintió, aunque no pareció dispuesto a abandonar el tema.</p>
+    
+    <p>—Entiendo. Claro que entiendo. Pero no me deje con la duda. ¿Qué tema le anda dando vueltas?</p>
+    
+    <p>Podía hablar de la hipocresía. De las palabras que la gente repetía sin examinarlas. De los gestos que parecían sinceros hasta que uno empezaba a preguntarse qué había detrás.</p>
+    
+    <p>Podía hablar de la diferencia entre creer y necesitar creer.</p>
+    
+    <p>Pero no sabía por dónde empezar sin terminar hablando de sí mismo.</p>
+    
+    <p>—La crisis de fe —dijo finalmente.</p>
+    
+    <p>El copastor se quedó en silencio.</p>
+    
+    <p>Fue apenas un segundo, pero él lo notó. La sonrisa se detuvo antes de regresar, y el interés que apareció en los ojos del hombre fue tan inmediato que le produjo una extraña incomodidad.</p>
+    
+    <p>—Qué tema tan interesante...</p>
+    
+    <p>El copastor se acercó un poco más.</p>
+    
+    <p>—Mire, si quieren me voy con ustedes a su casa. No se preocupen por la comida. Paso comprando algo en el camino y comemos juntos. Pero de verdad me interesa que hablemos de eso.</p>
+    
+    <p>Él volvió a mirar a su esposa.</p>
+    
+    <p>Ella había disimulado un gesto de alivio, pero ahora lo observaba con una advertencia muy clara: <em>ni se te ocurra</em>.</p>
+    
+    <p>Por primera vez en toda la mañana, estuvo a punto de reírse.</p>
+    
+    <p>—Se lo agradezco mucho, pastor, pero hoy mi esposa necesita descansar. Dejémoslo para otro día. Voy a llegar a buscarlo a su oficina y platicamos con tiempo.</p>
+    
+    <p>—Hecho. Lo voy a estar esperando, hermano. Prométame que va a llegar.</p>
+    
+    <p>El protagonista sostuvo su mirada.</p>
+    
+    <p>—Voy a llegar.</p>
+    
+</div>
+
+</body>
+</html>

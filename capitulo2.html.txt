@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Capítulo 2: Desde la banca - Crisis de fe</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Georgia, serif;
+            background-color: #141414;
+            color: #dcdcdc;
+        }
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            background: #1f1f1f;
+            padding: 50px;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+        }
+        h2 {
+            color: #ffffff;
+            border-bottom: 2px solid #444;
+            padding-bottom: 10px;
+            margin-bottom: 30px;
+        }
+        p {
+            line-height: 1.9;
+            font-size: 1.15em;
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+        .volver {
+            display: inline-block;
+            margin-bottom: 20px;
+            color: #4da6ff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .volver:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <a href="index.html" class="volver">&larr; Volver al índice</a>
+    <h2>Capítulo 2: Desde la banca</h2>
+    
+    <p>Pasaron dos semáforos sin hablar. Su esposa miraba la calle, con el bolso todavía sobre las piernas.</p>
+    
+    <p>—Ese comentario del pastor —dijo al fin—. Te la tiene guardada desde lo del diaconado.</p>
+    
+    <p>—Ya sé.</p>
+    
+    <p>—Cada vez que reestructuran, sale tu nombre. El copastor insiste.</p>
+    
+    <p>—No puedo ser diácono si casi no vengo. Sería una hipocresía.</p>
+    
+    <p>—El año pasado me dijiste otra cosa.</p>
+    
+    <p>Él no apartó la vista del camino.</p>
+    
+    <p>—¿Qué dije?</p>
+    
+    <p>—Que todo se compra. Que el que quiere privilegios tiene que pagarlos.</p>
+    
+    <p>—También es cierto.</p>
+    
+    <p>Ella se acomodó el cinturón.</p>
+    
+    <p>—Puede ser. Pero no es lo mismo que hipocresía.</p>
+    
+    <p>Él no contestó. El semáforo cambió y arrancó con más suavidad de la necesaria.</p>
+    
+    <p>—Mirá a nuestra hija —dijo después—. Para ser maestra de escuela dominical tiene que poner de su bolsa los materiales de la clase y los regalitos de los niños. ¿Por qué la iglesia no lo presupuesta?</p>
+    
+    <p>—Porque no.</p>
+    
+    <p>—Y vos, con el "privilegio de cocina". Te levantás a las cinco, ponés el trabajo y también la plata de los ingredientes para venderles a los mismos hermanos.</p>
+    
+    <p>—A veces la iglesia pone una parte.</p>
+    
+    <p>—No debería poner nada ninguna de las dos.</p>
+    
+    <p>Ella soltó una sonrisa breve, sin humor.</p>
+    
+    <p>—En eso tenés razón. Pero no es solo esta iglesia. En casi todas pasa igual. Ya sean evangélicas o católicas. Si no ponés de tu bolsa, no hay espacio para servir.</p>
+    
+    <p>—Por eso se van.</p>
+    
+    <p>—¿Quiénes?</p>
+    
+    <p>—Los que se van. Casi nunca es por doctrina. Es por esto.</p>
+    
+    <p>Ella guardó silencio. Metió la mano en el bolso, buscó las llaves de la casa y las apretó en el puño, aunque todavía faltaban cuatro cuadras.</p>
+    
+    <p>—¿Y vos por qué te quedaste tanto tiempo? —preguntó.</p>
+    
+    <p>Él tardó en responder.</p>
+    
+    <p>—No estamos hablando de mí.</p>
+    
+    <p>—Nunca estamos hablando de vos.</p>
+    
+    <p>Las llaves tintinearon dentro de su mano.</p>
+    
+    <p>Él siguió conduciendo.</p>
+    
+    <hr style="border: 0; border-top: 1px solid #444; margin: 40px 0;">
+    
+    <p>La hija los esperaba en el recibidor, con una pila de cartulinas y plumones en los brazos y el cabello recogido con un lápiz.</p>
+    
+    <p>—¿Qué tal estuvo el culto?</p>
+    
+    <p>Su madre dejó el bolso sobre la mesa del comedor y la besó en la mejilla.</p>
+    
+    <p>—Dice tu papá que comprás el privilegio de ser maestra de escuela dominical.</p>
+    
+    <p>La hija soltó una carcajada.</p>
+    
+    <p>—¿Mi papá? Con todas sus ideas, debería fundar una iglesia.</p>
+    
+    <p>Él se quitó el saco.</p>
+    
+    <p>—No hace falta fundar nada. Yo ya vi una iglesia distinta cuando era chico.</p>
+    
+    <p>—Ay, papá. Ya me tiene china con esa historia.</p>
+    
+    <p>—¿Qué historia?</p>
+    
+    <p>—La de la res.</p>
+    
+    <p>Dejó las cartulinas sobre la mesa y comenzó a separar los plumones.</p>
+    
+    <p>—Que en su pueblo compraban una res con los fondos de la iglesia y la destazaban el domingo. Pero era un pueblo agrícola y el ganado era barato. Esto es la ciudad.</p>
+    
+    <p>—El culto empezaba a las cinco de la mañana y a las cinco de la tarde todavía estábamos ahí —dijo él—. Desayuno, almuerzo, cena, refrigerios. Todo el día juntos. Esa sí era comunión entre hermanos.</p>
+    
+    <p>—Y las hermanas cocinando una res entera.</p>
+    
+    <p>—Sí. Pero no ponían plata.</p>
+    
+    <p>La hija levantó la mirada.</p>
+    
+    <p>—Pero ponían el cansancio, papá.</p>
+    
+    <p>—Poner el cansancio es distinto a poner la plata.</p>
+    
+    <p>—¿Distinto para quién?</p>
+    
+    <p>Él se sentó en la silla de la cabecera.</p>
+    
+    <p>—Para la gente que trabaja toda la semana y después tiene que pagar para servir en la iglesia.</p>
+    
+    <p>—Nadie me obliga a enseñar.</p>
+    
+    <p>—Tampoco deberían ponerte en la situación de tener que pagar los materiales de tu clase.</p>
+    
+    <p>—Yo quiero que los niños tengan sus cosas.</p>
+    
+    <p>—Y eso está bien. Lo que no está bien es que la iglesia se acostumbre a que vos las pagués.</p>
+    
+    <p>—Papá, son unos plumones, unas cartulinas y refrigerio.</p>
+    
+    <p>—Hoy son unos plumones. Después serán otras cosas. Y al final todos ponen algo de su bolsillo mientras la iglesia sigue recaudando diezmos y ofrendas.</p>
+    
+    <p>La hija dejó un plumón sobre la mesa.</p>
+    
+    <p>—¿Vos sabés cuánto cuesta mantener este lugar? ¿Cuánto se paga de luz, de agua, de limpieza? ¿Cuánto cuesta organizar una actividad para los niños?</p>
+    
+    <p>—No. Porque no me enseñan las cuentas.</p>
+    
+    <p>—¿Y por qué no preguntás en vez de venir a decir que todo está mal?</p>
+    
+    <p>Él abrió la boca, pero ella continuó.</p>
+    
+    <p>—Yo no digo que tengás que estar de acuerdo con todo. Pero parece que ya decidiste que nadie hace nada por amor. Si alguien predica, está actuando. Si alguien sirve, lo están usando. Si alguien se alegra, está fingiendo.</p>
+    
+    <p>—Yo no he dicho eso.</p>
+    
+    <p>—No necesitás decirlo, papá. Se te nota en la cara.</p>
+    
+    <p>Su esposa, que había empezado a sacar los platos del escurridor, dejó uno sobre la mesa.</p>
+    
+    <p>—Ya, hija.</p>
+    
+    <p>—No, mamá. Siempre es lo mismo. Él pregunta, critica, encuentra algo que está mal y después se sienta a esperar que los demás lo arreglen.</p>
+    
+    <p>—No estoy esperando que los demás lo arreglen.</p>
+    
+    <p>—Entonces, ¿qué estás haciendo?</p>
+    
+    <p>La pregunta quedó entre los tres.</p>
+    
+    <p>Él miró las cartulinas. En una de ellas había un dibujo de Jonás dentro de una ballena, con los ojos desproporcionadamente grandes.</p>
+    
+    <p>—No hace falta una res —dijo al cabo de unos segundos—. La iglesia puede comprar en el supermercado. Estas iglesias grandes recaudan suficiente en diezmos y ofrendas.</p>
+    
+    <p>La hija soltó el aire por la nariz.</p>
+    
+    <p>—Allá se regalaba todo. Aquí no se puede regalar todo.</p>
+    
+    <p>—No pido que regalen todo. Pido que las que cocinan o preparan la clase no saquen plata de su bolsa.</p>
+    
+    <p>Ella lo miró un momento, con las manos apoyadas sobre las cartulinas.</p>
+    
+    <p>—Es fácil decirlo desde la banca, papá.</p>
+    
+    <p>Él abrió la boca y volvió a cerrarla.</p>
+    
+    <p>Su esposa siguió sacando los platos, uno por uno, con más cuidado del necesario.</p>
+    
+    <p>—¿Qué hay de almuerzo? —preguntó él.</p>
+    
+    <p>—Lo que dejé ayer —respondió ella, sin volverse.</p>
+    
+    <p>La hija recogió los plumones y se llevó las cartulinas a la sala.</p>
+    
+    <p>Nadie volvió a mencionar la iglesia.</p>
+    
+    <hr style="border: 0; border-top: 1px solid #444; margin: 40px 0;">
+    
+    <p>Después del almuerzo, la hija extendió las cartulinas en el piso de la sala. La lección de Jonás estaba a medio dibujar. Había destapado los plumones y colocado los colores en fila, junto a una ballena que parecía tener más dientes que un tiburón.</p>
+    
+</div>
+
+</body>
+</html>
